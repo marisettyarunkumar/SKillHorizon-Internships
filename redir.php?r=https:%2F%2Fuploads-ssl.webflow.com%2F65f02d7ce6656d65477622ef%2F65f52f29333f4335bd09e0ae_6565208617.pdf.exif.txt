@@ -1,0 +1,18 @@
+ExifTool Version Number         : 13.25
+File Name                       : redir.php?r=https:%2F%2Fuploads-ssl.webflow.com%2F65f02d7ce6656d65477622ef%2F65f52f29333f4335bd09e0ae_6565208617.pdf
+Directory                       : docs
+File Size                       : 355 kB
+File Modification Date/Time     : 2024:03:16 01:33:31-04:00
+File Access Date/Time           : 2025:09:09 12:01:10-04:00
+File Inode Change Date/Time     : 2025:09:09 12:01:10-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.4
+Linearized                      : No
+Title                           : 
+Creator                         : wkhtmltopdf 0.12.5
+Producer                        : Qt 5.11.3
+Create Date                     : 2024:03:16 07:33:28+02:00
+Page Count                      : 5

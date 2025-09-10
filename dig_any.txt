@@ -1,0 +1,14 @@
+portswigger.com.	60	IN	A	52.19.48.233
+portswigger.com.	60	IN	A	54.154.236.115
+portswigger.com.	60	IN	A	99.80.8.37
+portswigger.com.	21600	IN	NS	ns-357.awsdns-44.com.
+portswigger.com.	21600	IN	NS	ns-737.awsdns-28.net.
+portswigger.com.	21600	IN	NS	ns-1102.awsdns-09.org.
+portswigger.com.	21600	IN	NS	ns-1928.awsdns-49.co.uk.
+portswigger.com.	21600	IN	SOA	ns-357.awsdns-44.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+portswigger.com.	300	IN	MX	10 alt4.aspmx.l.google.com.
+portswigger.com.	300	IN	MX	1 aspmx.l.google.com.
+portswigger.com.	300	IN	MX	5 alt1.aspmx.l.google.com.
+portswigger.com.	300	IN	MX	10 alt3.aspmx.l.google.com.
+portswigger.com.	300	IN	MX	5 alt2.aspmx.l.google.com.
+portswigger.com.	300	IN	TXT	"google-site-verification=nWtUgI28qoDi_LXd_4V_YtRt2IENkPbvip12C18qhf4"

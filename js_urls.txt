@@ -1,0 +1,7 @@
+http://testphp.vulnweb.com/bxss/test.js
+http://testphp.vulnweb.com/login.phphttps://modcom.pythonanywhere.com/http://www.altoromutual.com:8080/login.js
+http://testphp.vulnweb.com/medias/js/common_functions.js
+http://testphp.vulnweb.com/vendor/installed.js
+http://testphp.vulnweb.com/.well-known/ai-plugin.js
+http://testphp.vulnweb.com/.well-known/assetlinks.js
+http://testphp.vulnweb.com/.well-known/gpc.js

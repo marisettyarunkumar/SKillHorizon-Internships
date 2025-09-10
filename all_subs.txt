@@ -1,0 +1,185 @@
+1.academy.dev.portswigger.com
+1.academy.staging.portswigger.com
+*.1.exploit.academy.dev.portswigger.com
+1.exploit.academy.dev.portswigger.com
+*.1.exploit.academy.staging.portswigger.com
+1.exploit.academy.staging.portswigger.com
+*.1.h1.academy.dev.portswigger.com
+1.h1.academy.dev.portswigger.com
+*.1.h1.academy.staging.portswigger.com
+1.h1.academy.staging.portswigger.com
+1.oauth.academy.dev.portswigger.com
+1.oauth.academy.staging.portswigger.com
+*.2.academy.dev.portswigger.com
+2.academy.dev.portswigger.com
+*.2.academy.staging.portswigger.com
+2.academy.staging.portswigger.com
+*.2.exploit.academy.dev.portswigger.com
+2.exploit.academy.dev.portswigger.com
+*.2.exploit.academy.staging.portswigger.com
+2.exploit.academy.staging.portswigger.com
+*.2.h1.academy.dev.portswigger.com
+2.h1.academy.dev.portswigger.com
+*.2.h1.academy.staging.portswigger.com
+2.h1.academy.staging.portswigger.com
+*.2.oauth.academy.dev.portswigger.com
+2.oauth.academy.dev.portswigger.com
+*.2.oauth.academy.staging.portswigger.com
+2.oauth.academy.staging.portswigger.com
+*.3.academy.dev.portswigger.com
+3.academy.dev.portswigger.com
+*.3.academy.staging.portswigger.com
+3.academy.staging.portswigger.com
+*.3.exploit.academy.dev.portswigger.com
+3.exploit.academy.dev.portswigger.com
+*.3.exploit.academy.staging.portswigger.com
+3.exploit.academy.staging.portswigger.com
+*.3.h1.academy.dev.portswigger.com
+3.h1.academy.dev.portswigger.com
+*.3.h1.academy.staging.portswigger.com
+3.h1.academy.staging.portswigger.com
+*.3.oauth.academy.dev.portswigger.com
+3.oauth.academy.dev.portswigger.com
+*.3.oauth.academy.staging.portswigger.com
+3.oauth.academy.staging.portswigger.com
+*.4.academy.dev.portswigger.com
+4.academy.dev.portswigger.com
+*.5.academy.dev.portswigger.com
+5.academy.dev.portswigger.com
+[92m16509[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m2600:9000:2175::/48[0m[94m (Netblock)[0m
+[92m16509[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m52.84.44.0/22[0m[94m (Netblock)[0m
+[92m16509[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mAMAZON-02 - Amazon.com, Inc.[0m[94m (RIROrganization)[0m
+[92m2600:9000:2175::/48[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m2600:9000:2175:6e00:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92m2600:9000:2175::/48[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m2600:9000:2175:b200:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92m52.84.44.0/22[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m52.84.45.8[0m[94m (IPAddress)[0m
+[92m52.84.44.0/22[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m52.84.45.97[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2175:1600:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2175:5a00:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2175:6e00:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2175:8a00:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2175:b200:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2175:c400:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2175:ce00:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2175:e00:9:7b71:33c0:93a1[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m52.84.45.100[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m52.84.45.20[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m52.84.45.8[0m[94m (IPAddress)[0m
+[92mauth.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m52.84.45.97[0m[94m (IPAddress)[0m
+[92mcomponent-library.staging.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m10.208.18.18[0m[94m (IPAddress)[0m
+[92mcomponent-library.staging.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m10.208.19.138[0m[94m (IPAddress)[0m
+[92mlocal.dev.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m127.0.0.1[0m[94m (IPAddress)[0m
+[92mmario.staging.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m10.208.18.169[0m[94m (IPAddress)[0m
+[92mmario.staging.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m10.208.19.151[0m[94m (IPAddress)[0m
+[92mmy.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mmy.portswigger.com.cname.mendix.net[0m[94m (FQDN)[0m
+[92mmy.portswigger.com.cname.mendix.net[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92melb.eks.bbl-prod-5.eu-west-2.mendixcloud.net[0m[94m (FQDN)[0m
+[92mns-357.awsdns-44.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:5301:6500::1[0m[94m (IPAddress)[0m
+[92mns-357.awsdns-44.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m205.251.193.101[0m[94m (IPAddress)[0m
+[92mns-737.awsdns-28.net[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:5302:e100::1[0m[94m (IPAddress)[0m
+[92mns-737.awsdns-28.net[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m205.251.194.225[0m[94m (IPAddress)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m52.19.48.233[0m[94m (IPAddress)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m54.154.236.115[0m[94m (IPAddress)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m99.80.8.37[0m[94m (IPAddress)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92malt1.aspmx.l.google.com[0m[94m (FQDN)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92malt2.aspmx.l.google.com[0m[94m (FQDN)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92malt3.aspmx.l.google.com[0m[94m (FQDN)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92malt4.aspmx.l.google.com[0m[94m (FQDN)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92maspmx.l.google.com[0m[94m (FQDN)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns-1102.awsdns-09.org[0m[94m (FQDN)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns-1928.awsdns-49.co.uk[0m[94m (FQDN)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns-357.awsdns-44.com[0m[94m (FQDN)[0m
+[92mportswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns-737.awsdns-28.net[0m[94m (FQDN)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2912:3600:3:9c9f:500:93a1[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2912:3c00:3:9c9f:500:93a1[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2912:4600:3:9c9f:500:93a1[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2912:7800:3:9c9f:500:93a1[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2912:8000:3:9c9f:500:93a1[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2912:8c00:3:9c9f:500:93a1[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2912:8e00:3:9c9f:500:93a1[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2600:9000:2912:b200:3:9c9f:500:93a1[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m3.174.255.121[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m3.174.255.31[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m3.174.255.57[0m[94m (IPAddress)[0m
+[92mtools.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m3.174.255.78[0m[94m (IPAddress)[0m
+[92mupload.staging.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m52.30.196.49[0m[94m (IPAddress)[0m
+[92mupload.staging.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m99.80.134.78[0m[94m (IPAddress)[0m
+[92mvcs.portswigger.com[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mdev-vcs-dd4bbd01f966cf15.elb.eu-west-1.amazonaws.com[0m[94m (FQDN)[0m
+*.academy.dev.portswigger.com
+academy.dev.portswigger.com
+*.academy.staging.portswigger.com
+academy.staging.portswigger.com
+ai.portswigger.com
+assessment.portswigger.com
+auth.management-prod.cloud.portswigger.com
+auth.portswigger.com
+bowser.staging.portswigger.com
+bsee-dev.cloud.portswigger.com
+bsee-prod.cloud.portswigger.com
+charm.staging.portswigger.com
+cheat-sheets.portswigger.com
+cloudfront.staging.portswigger.com
+component-library.portswigger.com
+component-library.staging.portswigger.com
+dast-user-reporting.portswigger.com
+default.academy.dev.portswigger.com
+*.dev.academy.dev.portswigger.com
+dev.academy.dev.portswigger.com
+dev.portswigger.com
+devtools.portswigger.com
+devtools-prod.cloud.portswigger.com
+docs.portswigger.com
+elliot.mo.dev.portswigger.com
+enterprise.dev.portswigger.com
+enterprise-scim-integration.dev.portswigger.com
+enterprise.staging.portswigger.com
+*.exploit.academy.dev.portswigger.com
+exploit.academy.dev.portswigger.com
+*.exploit.academy.staging.portswigger.com
+exploit.academy.staging.portswigger.com
+flags.portswigger.com
+*.h1.academy.dev.portswigger.com
+h1.academy.dev.portswigger.com
+*.h1.academy.staging.portswigger.com
+h1.academy.staging.portswigger.com
+jeeves.portswigger.com
+jml-automations.portswigger.com
+lab-heartbeat.1.academy.dev.portswigger.com
+lab-heartbeat.1.academy.staging.portswigger.com
+lab-heartbeat.2.academy.dev.portswigger.com
+lab-heartbeat.2.academy.staging.portswigger.com
+lab-heartbeat.3.academy.dev.portswigger.com
+lab-heartbeat.3.academy.staging.portswigger.com
+*.luigi.staging.portswigger.com
+luigi.staging.portswigger.com
+mailodon.bsee-dev.cloud.portswigger.com
+mailodon.bsee-prod.cloud.portswigger.com
+mailodon-cac1.bsee-prod.cloud.portswigger.com
+mailodon-use1.bsee-prod.cloud.portswigger.com
+management-prod.cloud.portswigger.com
+*.mario.staging.portswigger.com
+mario.staging.portswigger.com
+mo.dev.portswigger.com
+my.portswigger.com
+*.oauth.academy.dev.portswigger.com
+oauth.academy.dev.portswigger.com
+*.oauth.academy.staging.portswigger.com
+oauth.academy.staging.portswigger.com
+observability-prod.cloud.portswigger.com
+observability-prod.portswigger.com
+portswigger.com
+ra01.vpn.portswigger.com
+sec.portswigger.com
+*.staging.academy.staging.portswigger.com
+staging.academy.staging.portswigger.com
+staging.portswigger.com
+*.tc.academy.dev.portswigger.com
+tc.academy.dev.portswigger.com
+technology.portswigger.com
+telemetry.portswigger.com
+tele.observability-prod.portswigger.com
+testinglb.mo.dev.portswigger.com
+tools.portswigger.com
+upload.staging.portswigger.com
+vcs.portswigger.com
+www.my.portswigger.com
+www.portswigger.com
+xxyyzz.dev.portswigger.com
